@@ -8,7 +8,6 @@ setup(
     author_email="craffel@gmail.com",
     url="https://github.com/craffel/pretty-midi",
     packages=["pretty_midi"],
-    package_data={"": ["TimGM6mb.sf2"]},
     long_description="""\
     Functions and classes which make handling MIDI data easy in Python.
     Provides methods for parsing, modifying, and analyzing MIDI files.
